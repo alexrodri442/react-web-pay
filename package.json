@@ -1,0 +1,23 @@
+{
+  "name": "react-web-pay",
+  "version": "0.0.1",
+  "description": "The easiest payment package for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettmac/react-web-pay.git"
+  },
+  "keywords": [
+    "applepay",
+    "paypal"
+  ],
+  "author": "garrettmac <garrett@vyga.io> (https://vyga.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garrettmac/react-web-pay/issues"
+  },
+  "homepage": "https://github.com/garrettmac/react-web-pay#readme"
+}
