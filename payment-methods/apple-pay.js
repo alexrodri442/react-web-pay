@@ -1,7 +1,9 @@
 const APPLEPAY_SUPPORTED = window.ApplePaySession ? true : false;
 const API_VERSION = 1;
-const LOCALE = 'GB';
-const MERCHANT_IDENTIFIER = 'merchant.identifier';
+const LOCALE = 'US';
+// const MERCHANT_IDENTIFIER = 'merchant.identifier';
+// const MERCHANT_IDENTIFIER = 'merchant.com.lululemon.shop';
+const MERCHANT_IDENTIFIER = 'merchant.io.vyga.ReactWalletDemo';
 
 
 
