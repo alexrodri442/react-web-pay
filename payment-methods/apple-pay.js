@@ -3,7 +3,7 @@ const API_VERSION = 1;
 const LOCALE = 'US';
 // const MERCHANT_IDENTIFIER = 'merchant.identifier';
 // const MERCHANT_IDENTIFIER = 'merchant.com.lululemon.shop';
-const MERCHANT_IDENTIFIER = 'merchant.io.vyga.ReactWalletDemo';
+const MERCHANT_IDENTIFIER = 'K7MCLU759J.merchant.com.electronicsgalore';
 
 
 
